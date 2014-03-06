@@ -1,0 +1,11 @@
+E:\LOE\Practica6\Practica6\bin\Debug\Practica6.exe.config
+E:\LOE\Practica6\Practica6\bin\Debug\Practica6.exe
+E:\LOE\Practica6\Practica6\bin\Debug\Practica6.pdb
+E:\LOE\Practica6\Practica6\bin\Debug\Practica6.xml
+E:\LOE\Practica6\Practica6\obj\Debug\Practica6.Form1.resources
+E:\LOE\Practica6\Practica6\obj\Debug\Practica6.Resources.resources
+E:\LOE\Practica6\Practica6\obj\Debug\Practica6.vbproj.GenerateResource.Cache
+E:\LOE\Practica6\Practica6\obj\Debug\Practica6.exe
+E:\LOE\Practica6\Practica6\obj\Debug\Practica6.xml
+E:\LOE\Practica6\Practica6\obj\Debug\Practica6.pdb
+E:\LOE\Practica6\Practica6\obj\Debug\Practica6.Form2.resources
